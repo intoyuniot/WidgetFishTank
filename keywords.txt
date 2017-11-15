@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ WidgetFishTank   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+displayTemperature  KEYWORD2
+displayOxyStatus  KEYWORD2
+getThermostatSwitch  KEYWORD2
+getPumpSwitch  KEYWORD2
+getOxySwitch  KEYWORD2
+getFeedSwitch  KEYWORD2
+getOxyTime  KEYWORD2
+getBrightness  KEYWORD2
+getRGBValue  KEYWORD2
+controlThermostat  KEYWORD2
+controlPump  KEYWORD2
+controlOxy  KEYWORD2
+controlFeed  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+

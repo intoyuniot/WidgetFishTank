@@ -1,0 +1,32 @@
+{
+    "name": "WidgetFishTank",
+    "version": "1.0.0",
+    "keywords": "Widget,Fish,Tank",
+    "description": "鱼缸应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetFishTank.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "dependencies":
+    [
+        {
+            "name": "Dallas_Temperature",
+            "frameworks": "arduino"
+        },
+        {
+            "name": "OneWire",
+            "frameworks": "arduino"
+        },
+        {
+            "name": "Adafruit_NeoPixel",
+            "frameworks": "arduino"
+        }
+    ],
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
